@@ -16,17 +16,20 @@ A journey through bioinformatics - Explore resources from EMBL-EBI (1h) - https:
 Advanced search in UniProt and sequence analysis tools (BLAST and align) (1h) - https://www.ebi.ac.uk/training/events/advanced-search-uniprot-and-sequence-analysis-tools-blast-and-align/
 
 ## Dodatkowe
-AI
+### AI
 AI readiness for the future of biomedical data (3h) - https://www.ebi.ac.uk/training/online/courses/ai-readiness-future-biomedical-data/
 
-API
+### API
 Accessing InterPro programmatically (1h) - https://www.ebi.ac.uk/training/events/accessing-interpro-programmatically/
+
 Accessing UniProt programmatically for students (1h) - https://www.ebi.ac.uk/training/events/accessing-uniprot-programmatically-students/
+
 Advanced programmatic access to UniProt using Python (1h) - https://www.ebi.ac.uk/training/events/advanced-programmatic-access-uniprot-using-python/
 
-3D
+### 3D
 AlphaFold - A practical guide (3h) - https://www.ebi.ac.uk/training/online/courses/alphafold/
+
 AlphaFold Education Summit - https://www.ebi.ac.uk/training/materials/alphafold-education-summit-materials/
 
-Pipelines
+### Pipelines
 An introduction to Nextflow - https://www.ebi.ac.uk/training/events/introduction-nextflow/
