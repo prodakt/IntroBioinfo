@@ -21,9 +21,9 @@ Bioinformatics for the terrified - An introduction to the science of bioinformat
 
 Bioinformatics resources for protein biology - https://www.ebi.ac.uk/training/materials/proteinbiologymaterials/
 
-EMBL-EBI Tools
-An introduction (3h) - https://www.ebi.ac.uk/training/online/courses/embl-ebi-tools-introduction/
+EMBL-EBI Tools An introduction (3h) - https://www.ebi.ac.uk/training/online/courses/embl-ebi-tools-introduction/
 
+Europe PMC Quick tour (0.5h) - https://www.ebi.ac.uk/training/online/courses/europepmc-quick-tour/
 
 ## Dodatkowe
 
@@ -36,6 +36,10 @@ Data visualisation principles for enhancing effective scientific communication (
 Ensembl Quick tour (0.5h) - https://www.ebi.ac.uk/training/online/courses/ensembl-quick-tour
 Ensembl Browser webinar series (3h) - https://www.ebi.ac.uk/training/online/courses/ensembl-browser-series/
 Ensembl REST API (1h) - https://www.ebi.ac.uk/training/online/courses/ensembl-rest-api/
+Ensembl Browsing genomes (3h) - https://www.ebi.ac.uk/training/online/courses/ensembl-browsing-genomes/
+Ensembl Genomes (non-chordates)
+Quick tour (0.5h) - https://www.ebi.ac.uk/training/online/courses/ensembl-genomes-non-chordates-quick-tour/
+
 
 ### AI
 AI readiness for the future of biomedical data (3h) - https://www.ebi.ac.uk/training/online/courses/ai-readiness-future-biomedical-data/
@@ -46,6 +50,10 @@ Accessing InterPro programmatically (1h) - https://www.ebi.ac.uk/training/events
 Accessing UniProt programmatically for students (1h) - https://www.ebi.ac.uk/training/events/accessing-uniprot-programmatically-students/
 
 Advanced programmatic access to UniProt using Python (1h) - https://www.ebi.ac.uk/training/events/advanced-programmatic-access-uniprot-using-python/
+
+Europe PMC: Programmatic access (0.5h) - https://www.ebi.ac.uk/training/events/europe-pmc-programmatic-access/
+
+
 
 EMBL-EBI, programmatically
 Take a REST from manual searches (3h) - https://www.ebi.ac.uk/training/online/courses/embl-ebi-programmatically/
@@ -66,3 +74,12 @@ Data visualisation at PDBe - https://www.ebi.ac.uk/training/events/data-visualis
 
 ### Pipelines
 An introduction to Nextflow - https://www.ebi.ac.uk/training/events/introduction-nextflow/
+
+### ENA
+European Nucleotide Archive: An introduction - https://www.ebi.ac.uk/training/online/courses/ena-quick-tour
+European Variation Archive: Quick tour - https://www.ebi.ac.uk/training/events/european-nucleotide-archive-introduction
+Exploring protein families and domains using InterPro - https://www.ebi.ac.uk/training/events/exploring-protein-families-and-domains-using-interpro
+
+# functional
+https://www.ebi.ac.uk/training/events/exploring-gene-ontology-go-annotations-tools-and-resources - Exploring Gene Ontology, GO annotations, tools and resources
+Exploring protein sequences and functional annotations with UniProt - https://www.ebi.ac.uk/training/events/exploring-protein-sequences-and-functional-annotations-uniprot
