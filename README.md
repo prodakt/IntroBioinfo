@@ -3,17 +3,26 @@ Online materials for the Introduction to Bioinformatics course
 
 
 Kursy EBI:
-Introductory bioinformatics (3h) - https://www.ebi.ac.uk/training/online/courses/introductory-bioinformatics-pathway/ 
+Introductory bioinformatics (3h) - https://www.ebi.ac.uk/training/online/courses/introductory-bioinformatics-pathway/
+
 An introduction to EMBL-EBI resources 2025 (1h) - https://www.ebi.ac.uk/training/events/introduction-embl-ebi-resources-2025/
+
 An introduction to EMBL-EBI resources 2026 (1h) - https://www.ebi.ac.uk/training/events/introduction-embl-ebi-resources-2026/
 
 A guide to EBI Search (recorded webinar - 1h)) - https://www.ebi.ac.uk/training/events/guide-ebi-search/
 
 A guide to UniProt for students (recorded webinar - 1h) - https://www.ebi.ac.uk/training/events/guide-uniprot-students-2025/
 
+Advanced search in UniProt and sequence analysis tools (BLAST and align) (1h) - https://www.ebi.ac.uk/training/events/advanced-search-uniprot-and-sequence-analysis-tools-blast-and-align/
+
 A journey through bioinformatics - Explore resources from EMBL-EBI (1h) - https://www.ebi.ac.uk/training/online/courses/a-journey-through-bioinformatics/
 
-Advanced search in UniProt and sequence analysis tools (BLAST and align) (1h) - https://www.ebi.ac.uk/training/events/advanced-search-uniprot-and-sequence-analysis-tools-blast-and-align/
+Bioinformatics for the terrified - An introduction to the science of bioinformatics (1h) - https://www.ebi.ac.uk/training/online/courses/bioinformatics-terrified/
+
+Bioinformatics resources for protein biology - https://www.ebi.ac.uk/training/materials/proteinbiologymaterials/
+
+
+
 
 ## Dodatkowe
 ### AI
@@ -27,9 +36,16 @@ Accessing UniProt programmatically for students (1h) - https://www.ebi.ac.uk/tra
 Advanced programmatic access to UniProt using Python (1h) - https://www.ebi.ac.uk/training/events/advanced-programmatic-access-uniprot-using-python/
 
 ### 3D
+
+Biomacromolecular structures
+An introduction to EMBL-EBI resources (1h) - https://www.ebi.ac.uk/training/online/courses/biomacromolecular-structures/
+
 AlphaFold - A practical guide (3h) - https://www.ebi.ac.uk/training/online/courses/alphafold/
 
 AlphaFold Education Summit - https://www.ebi.ac.uk/training/materials/alphafold-education-summit-materials/
+
+Analysing and evaluating macromolecular models (3h) - https://www.ebi.ac.uk/training/online/courses/analysing-evaluating-macromolecular-models/
+
 
 ### Pipelines
 An introduction to Nextflow - https://www.ebi.ac.uk/training/events/introduction-nextflow/
