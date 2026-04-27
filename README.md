@@ -25,6 +25,10 @@ EMBL-EBI Tools An introduction (3h) - https://www.ebi.ac.uk/training/online/cour
 
 Europe PMC Quick tour (0.5h) - https://www.ebi.ac.uk/training/online/courses/europepmc-quick-tour/
 
+Introducing the new Ensembl Genome Browser - https://www.ebi.ac.uk/training/events/introducing-new-ensembl-genome-browser
+
+Introduction to EMBL-EBI for teachers and trainers (1h) - https://www.ebi.ac.uk/training/events/introduction-embl-ebi-teachers-and-trainers/
+
 ## Dodatkowe
 
 ### Vis
@@ -53,16 +57,19 @@ Advanced programmatic access to UniProt using Python (1h) - https://www.ebi.ac.u
 
 Europe PMC: Programmatic access (0.5h) - https://www.ebi.ac.uk/training/events/europe-pmc-programmatic-access/
 
-
-
-EMBL-EBI, programmatically
-Take a REST from manual searches (3h) - https://www.ebi.ac.uk/training/online/courses/embl-ebi-programmatically/
+EMBL-EBI, programmatically Take a REST from manual searches (3h) - https://www.ebi.ac.uk/training/online/courses/embl-ebi-programmatically/
 <!-- Ensembl REST API (1h) - https://www.ebi.ac.uk/training/online/courses/ensembl-rest-api/ -->
+
+
+### RNA-seq
+Introduction to RNA-seq and functional interpretation - https://www.ebi.ac.uk/training/materials/introduction-to-rna-seq-materials/
 
 ### 3D
 
 Biomacromolecular structures
 An introduction to EMBL-EBI resources (1h) - https://www.ebi.ac.uk/training/online/courses/biomacromolecular-structures/
+
+PDBe: Searching the Protein Data Bank () - https://www.ebi.ac.uk/training/online/courses/pdbe-searching-pdb
 
 AlphaFold - A practical guide (3h) - https://www.ebi.ac.uk/training/online/courses/alphafold/
 
@@ -80,6 +87,14 @@ European Nucleotide Archive: An introduction - https://www.ebi.ac.uk/training/on
 European Variation Archive: Quick tour - https://www.ebi.ac.uk/training/events/european-nucleotide-archive-introduction
 Exploring protein families and domains using InterPro - https://www.ebi.ac.uk/training/events/exploring-protein-families-and-domains-using-interpro
 
-# functional
+### functional
 https://www.ebi.ac.uk/training/events/exploring-gene-ontology-go-annotations-tools-and-resources - Exploring Gene Ontology, GO annotations, tools and resources
 Exploring protein sequences and functional annotations with UniProt - https://www.ebi.ac.uk/training/events/exploring-protein-sequences-and-functional-annotations-uniprot
+Functional genomics: An introduction to EMBL-EBI resources - https://www.ebi.ac.uk/training/online/courses/functional-genomics-introduction-embl-ebi-resource
+Functional genomics I: Introduction and designing experiments - https://www.ebi.ac.uk/training/online/courses/functional-genomics-i-introduction-and-design
+Functional genomics II: Common technologies and data analysis methods - https://www.ebi.ac.uk/training/online/courses/functional-genomics-ii-common-technologies-and-data-analysis-methods
+Functional genomics III: Submitting your data and functional genomics databases - https://www.ebi.ac.uk/training/online/courses/functional-genomics-iii-submitting-data
+GOA and QuickGO: Quick tour - https://www.ebi.ac.uk/training/online/courses/goa-and-quickgo-quick-tour
+
+
+
