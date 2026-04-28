@@ -184,50 +184,183 @@ Spróbuj znaleźć konkretnego naukowca z UWM pracującego w wybranej dziedzinie
 Czy uważasz, że liczba publikacji jest dobrym wskaźnikiem rozwoju danej dziedziny? Uzasadnij swoją odpowiedź.
 
 
----
-
-## Zadanie 1.2 – Analiza ilościowa sekwencji w bazie Nucleotide
+================================================================================
+## Zadanie 1.2 – Analiza sekwencji nukleotydowych: struktura danych i ograniczenia wyszukiwania
 
 ### Cel  
-Poznanie struktury bazy sekwencji nukleotydowych oraz wpływu filtrów na wyniki wyszukiwania.
+Poznanie struktury bazy sekwencji nukleotydowych oraz rozwinięcie umiejętności krytycznej analizy danych biologicznych w zależności od zastosowanych filtrów.
 
 ---
 
-### 🔧 Wykonaj  
+### Wprowadzenie  
 
-1. Wejdź do bazy NCBI Nucleotide.  
+Bazy danych sekwencji nukleotydowych zawierają ogromne ilości informacji o DNA i RNA organizmów żywych. Dane te są podstawą analiz bioinformatycznych – od identyfikacji genów po badania ewolucyjne.
 
-2. Wyszukaj wszystkie rekordy dla organizmu:
-   - *Homo sapiens*
+Jednak liczba rekordów w bazie nie jest prostą miarą „ilości biologii”. Wyniki zależą od:
+- sposobu zdefiniowania zapytania  
+- zastosowanych filtrów  
+- definicji rekordu (gen, fragment, genom, transkrypt)  
 
-3. Zanotuj:
+W tym zadaniu spróbujesz zrozumieć, co tak naprawdę oznaczają liczby, które widzisz w wynikach wyszukiwania.
+
+---
+
+### Wykonaj  
+
+1. Wybór organizmu  
+
+   Wybierz jeden organizm do analizy:
+   - człowiek (human lub *Homo sapiens*)
+   - mysz (mouse lub *Mus musculus*)
+   - świnia (pig lub *Sus scrofa*)
+   lub  
+   - inny organizm najlepiej związany z Twoimi zainteresowaniami (np. bakteria, roślina, pasożyt)
+
+Upewnij się, że wyszukiwanie dotyczy rzeczywiscie nazwy organizmu, czy prawidłowo zastosowałeś ograniczenie do tego pola rekordu?
+
+Sprawdż:
+ - czy użycie nazwy organizmu po łacinie i po angielsku daje te same wyniki? Jak to uzasadnisz?
+
+---
+
+2. Analiza podstawowa  
+
+   W bazie NCBI Nucleotide wyszukaj wszystkie rekordy dla wybranego organizmu.
+
+   Zanotuj:
    - liczbę wszystkich rekordów  
 
-4. Zawęź wyszukiwanie:
-   - długość sekwencji < **XXXX**  
-     (XXXX = cztery ostatnie cyfry Twojego numeru indeksu)
+---
 
-5. Wyszukaj osobno:
+3. Ograniczenie długości sekwencji  
+
+   Zawęź wyniki do sekwencji krótszych niż:  
+
+   **XXXX nukleotydów**  
+   (XXXX = cztery ostatnie cyfry Twojego numeru indeksu)
+
+   Zanotuj:
+   - nową liczbę rekordów  
+
+---
+
+4. Sekwencje kodujące vs niekodujące  
+
+   Spróbuj rozdzielić wyniki na:
    - sekwencje kodujące białka  
    - sekwencje niekodujące  
 
-6. Dodaj filtr:
-   - rekordy opublikowane od roku Twojego urodzenia  
+   (wykorzystaj dostępne filtry, słowa kluczowe lub pola wyszukiwania - bardzo ważny jest sposób zastosowania tego kryterium!)
+
+   Zanotuj:
+   - liczbę rekordów w każdej kategorii
+   - kompletne kwerendy obrazujące jednoznacznie sposób wyszukiwania
+
+---
+
+5. Ograniczenie czasowe  
+
+   Dodaj filtr:
+   - rekordy opublikowane dokładnie od dnia Twojego urodzenia  
+
+   Powtórz analizę dla:
+   - wszystkich sekwencji  
+   - sekwencji kodujących  
+   - sekwencji niekodujących  
+
+---
+
+6. Analiza typu rekordu  
+
+   Spróbuj sprawdzić, jakie typy danych dominują w wynikach, np.:
+   - pełne genomy  
+   - fragmenty genów  
+   - mRNA  
+   - regiony regulatorowe  
+
+   (na podstawie opisów rekordów)
+
+---
+
+7. Zestawienie danych  
+
+   Utwórz tabelę zawierającą:
+
+   - wariant zapytania  
+   - liczba rekordów  
+
+   Przykładowe wiersze:
+   - wszystkie rekordy  
+   - długość < XXXX  
+   - kodujące  
+   - niekodujące  
+   - z filtrem daty  
+
+---
+
+8. Wizualizacja danych  
+
+   Wykonaj wykres przedstawiający:
+
+   - wpływ filtrów na liczbę rekordów  
+   (np. wykres słupkowy)
 
 ---
 
 ### Wyniki  
-- liczba rekordów dla każdej kombinacji filtrów  
-- dokładne zapytania (zakładka „Advanced” lub „Search details”)  
+
+- wszystkie użyte zapytania (Search details / Advanced)  
+- liczby rekordów  
+- tabela porównawcza  
+- wykres  
 
 ---
 
 ### Wnioski  
-- czym różnią się sekwencje kodujące i niekodujące?  
-- dlaczego liczba rekordów zależy od długości sekwencji?  
-- jakie znaczenie biologiczne mają sekwencje niekodujące?  
+
+- Co oznacza „rekord” w bazie nukleotydowej?  
+- Dlaczego liczba rekordów zmienia się tak znacząco po zastosowaniu filtrów?  
+- Czy krótkie sekwencje dominują w bazie? Dlaczego?  
+- Jakie są różnice między sekwencjami kodującymi i niekodującymi?  
+- Czy dane w bazie są jednorodne (czy wszystkie rekordy są porównywalne)?  
 
 ---
+
+### Zadanie dodatkowe 1 – dynamika przyrostu danych  
+
+Spróbuj przeanalizować, jak zmieniała się liczba rekordów w czasie.
+
+#### Wykonaj:
+
+1. Podziel zakres czasu:
+   - od roku Twojego urodzenia do dziś  
+   - na kilka okresów (np. 5–10 przedziałów)
+
+2. Dla każdego okresu:
+   - wyszukaj liczbę rekordów spełniających Twoje kryteria  
+
+3. Utwórz tabelę:
+   - okres czasu  
+   - liczba rekordów  
+
+4. Wykonaj wykres:
+   - liczba rekordów w funkcji czasu  
+
+---
+
+#### Wnioski:
+
+- Czy baza danych rośnie liniowo, wykładniczo czy nieregularnie?  
+- Jakie czynniki mogą wpływać na tempo przyrostu danych?  
+- Czy rozwój technologii (np. sekwencjonowania) może mieć tu znaczenie?  
+
+---
+
+### Pytanie otwarte (do dyskusji)
+
+- Czy liczba rekordów w bazie nukleotydowej jest dobrą miarą naszej wiedzy o genomach organizmów? Uzasadnij odpowiedź. 
+
+============================================================================
 
 ## Zadanie 1.3 – Wyszukiwanie i zapis sekwencji białkowych (Protein)
 
