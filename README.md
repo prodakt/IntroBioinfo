@@ -8,7 +8,118 @@
  - zaliczony test końcowy
 3. Student ma możliwość zaliczania/obrony wykonanych zadań na ćwiczeniach.
 
+------ 
 
+## Plan kursu – Podstawy bioinformatyki (7 spotkań)
+
+### Moduł 1 – Bazy danych NCBI i wyszukiwanie informacji biologicznej
+
+Tematyka:
+- wprowadzenie do NCBI (PubMed, Nucleotide, Protein)
+- liczba rekordów jako informacja biologiczna
+- filtrowanie danych (data, organizm, długość, afiliacja)
+- operatory logiczne (AND, OR, NOT)
+- struktura rekordu biologicznego
+
+Nacisk:
+świadome wyszukiwanie danych
+
+---
+
+### Moduł 2 – Format danych biologicznych i praca na plikach
+
+Tematyka:
+- dane biologiczne jako tekst (DNA, RNA, białka)
+- formaty plików: FASTA, TXT, CSV, DOC, RTF
+- struktura formatu FASTA
+- wielkość pliku a ilość informacji
+- rekord vs tabela vs plik
+- podstawy interoperacyjności danych
+
+Nacisk:
+zrozumienie, jak dane są zapisane i jak wpływa to na ich analizę
+
+---
+
+### Moduł 3 – BLAST: wyszukiwanie homologii i identyfikacja sekwencji
+
+Tematyka:
+- pojęcie homologii (ortologi, paralogi)
+- działanie BLAST (lokalne dopasowanie)
+- warianty BLAST: BLASTn, BLASTp, BLASTx, tBLASTn
+- interpretacja wyników (E-value, identity, coverage)
+- wpływ parametrów na wynik wyszukiwania
+
+Nacisk:
+interpretacja wyników i krytyczne podejście do analizy
+
+---
+
+### Moduł 4 – Pairwise alignment (dopasowanie par sekwencji)
+
+Tematyka:
+- dopasowanie globalne i lokalne
+- algorytmy Needleman–Wunsch i Smith–Waterman
+- system punktacji (match, mismatch, gap penalties)
+- macierze substytucji (BLOSUM, PAM)
+
+Nacisk:
+zrozumienie matematycznych podstaw podobieństwa sekwencji
+
+---
+
+### Moduł 5 – Multiple Sequence Alignment (MSA) i regiony konserwatywne
+
+Tematyka:
+- idea wielokrotnego dopasowania sekwencji (MSA)
+- narzędzia (Clustal Omega, COBALT)
+- identyfikacja regionów konserwatywnych
+- mutacje (substytucje, insercje, delecje)
+- porównanie alignmentów DNA i białek
+
+Nacisk:
+interpretacja biologiczna wyników alignmentu
+
+---
+
+### Moduł 6 – Analiza funkcjonalna i integracja danych biologicznych
+
+Tematyka:
+- łączenie danych z różnych baz (NCBI, UniProt)
+- funkcja białka
+- lokalizacja komórkowa
+- powiązania z chorobami
+- wnioskowanie funkcji na podstawie homologii
+
+Nacisk:
+przejście od danych sekwencyjnych do interpretacji biologicznej
+
+---
+
+### Moduł 7 – Mini-projekt bioinformatyczny
+
+Tematyka:
+- samodzielna analiza sekwencji:
+  - identyfikacja (BLAST)
+  - pairwise alignment
+  - multiple sequence alignment (MSA)
+- interpretacja wyników
+- przygotowanie raportu końcowego
+
+Nacisk:
+integracja wiedzy i samodzielne rozwiązywanie problemów
+
+---
+
+## Logika kursu
+
+1. Gdzie są dane? (Spotkanie 1)  
+2. Jak są zapisane? (Spotkanie 2)  
+3. Jak znaleźć podobne sekwencje? (Spotkanie 3)  
+4. Co oznacza podobieństwo? (Spotkanie 4)  
+5. Jakie regiony są ważne biologicznie? (Spotkanie 5)  
+6. Jak interpretować funkcję? (Spotkanie 6)  
+7. Czy potrafię przeprowadzić pełną analizę? (Spotkanie 7)
 
 ## Online materials for the Introduction to Bioinformatics course
 
