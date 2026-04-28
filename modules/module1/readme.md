@@ -16,10 +16,7 @@ Celem ćwiczenia jest:
 - zrozumienie, jak filtrowanie wpływa na wyniki wyszukiwania,
 - interpretacja liczby rekordów w kontekście biologicznym.
 
-
-[![Watch the video](https://img.youtube.com/vi/_UOx5x9eL/0.jpg)](https://youtu.be/QIZ8QH6JcC8?si=DPYXMYf_UOx5x9eL)
-
-
+[![Watch the video](https://img.youtube.com/vi/QIZ8QH6JcC8/0.jpg)](https://youtu.be/QIZ8QH6JcC8?v=QIZ8QH6JcC8)
 
 ---
 
