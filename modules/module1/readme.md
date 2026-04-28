@@ -17,6 +17,10 @@ Celem ćwiczenia jest:
 - interpretacja liczby rekordów w kontekście biologicznym.
 
 
+[![Watch the video](https://img.youtube.com/vi/_UOx5x9eL/0.jpg)](https://youtu.be/QIZ8QH6JcC8?si=DPYXMYf_UOx5x9eL)
+
+
+
 ---
 
 ## Zadanie 1.1 – Wyszukiwanie publikacji i interpretacja danych (PubMed)
