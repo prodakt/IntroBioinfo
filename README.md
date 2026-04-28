@@ -1,5 +1,6 @@
 # IntroBioinfo
 
+## Zasady ogólne
 1. Każdy student przygotowuje swoją własną cyfrową wersję raportu z ćwiczen. Ma to być jeden plik w dowolnym formacie, w którym znajdują sie dane studenta oraz treści i rozwiązania poszczególnych zadań.
 2. Podstawowe kryteria zaliczenia kursu:
  - obecnosć
@@ -9,7 +10,7 @@
 
 
 
-Online materials for the Introduction to Bioinformatics course
+## Online materials for the Introduction to Bioinformatics course
 
 ======
 Kursy EBI:
