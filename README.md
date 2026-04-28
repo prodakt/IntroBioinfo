@@ -1,7 +1,17 @@
 # IntroBioinfo
+
+1. Każdy student przygotowuje swoją własną cyfrową wersję raportu z ćwiczen. Ma to być jeden plik w dowolnym formacie, w którym znajdują sie dane studenta oraz treści i rozwiązania poszczególnych zadań.
+2. Podstawowe kryteria zaliczenia kursu:
+ - obecnosć
+ - wypełniony raport
+ - zaliczony test końcowy
+3. Student ma możliwość zaliczania/obrony wykonanych zadań na ćwiczeniach.
+
+
+
 Online materials for the Introduction to Bioinformatics course
 
-
+======
 Kursy EBI:
 Introductory bioinformatics (3h) - https://www.ebi.ac.uk/training/online/courses/introductory-bioinformatics-pathway/
 
