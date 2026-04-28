@@ -20,47 +20,163 @@ Celem ćwiczenia jest:
 
 ---
 
-## Zadanie 1.1 – Wyszukiwanie publikacji i interpretacja danych (PubMed)
+## Zadanie 1.1 – Analiza publikacji naukowych: świat, Polska i UWM w Olsztynie
 
 ### Cel  
-Zapoznanie się z mechanizmem wyszukiwania literatury naukowej oraz interpretacją liczby publikacji.
+Zapoznanie się z mechanizmem wyszukiwania literatury naukowej oraz krytyczną analizą danych bibliograficznych w kontekście geograficznym i instytucjonalnym.
+
+---
+
+### Wprowadzenie  
+
+Wyobraź sobie, że chcesz rozpocząć badania naukowe w dziedzinie, która szczególnie Cię interesuje.  
+
+Zanim wybierzesz temat pracy dyplomowej lub projekt badawczy, chcesz odpowiedzieć na kilka kluczowych pytań:
+
+- Jak duży jest zasób wiedzy w tej dziedzinie na świecie?  
+- Jak wygląda aktywność publikacyjna w Polsce?  
+- Czy w Twoim mieście lub na Twojej uczelni prowadzone są badania w tym obszarze?  
+- Czy możesz znaleźć potencjalnego promotora lub zespół badawczy?  
+
+Do tego celu wykorzystasz bazę PubMed.
 
 ---
 
 ### Wykonaj  
 
-1. Wejdź do bazy PubMed.  
+1. Wybór tematu  
 
-2. Wyszukaj publikacje zawierające słowo kluczowe związane z Twoim kierunkiem studiów  
-   (np. „gene expression”, „microbiome”, „enzyme”, „cancer”).
+   Wybierz samodzielnie temat badawczy (jedno słowo lub krótka fraza), który Cię interesuje.  
+   Unikaj korzystania z przykładów innych osób – wybierz coś, co rzeczywiście Cię ciekawi.
 
-3. Zanotuj:
+---
+
+2. Analiza globalna (świat)  
+
+   Wyszukaj publikacje dla wybranego tematu.
+
+   Zanotuj:
    - liczbę wszystkich rekordów (bez filtrów)
 
-4. Zastosuj filtry:
-   - zakres dat: od **dokładnej daty Twojego urodzenia** do dnia dzisiejszego  
-   - język: angielski  
+---
 
-5. Dodaj kolejny filtr:
-   - afiliacja: „Poland”
+3. Analiza dla Polski  
 
-6. Zmodyfikuj zapytanie:
-   - dodaj drugi termin biologiczny (np. `cancer AND microbiome`)
+   Zmodyfikuj zapytanie, dodając filtr:
+   - afiliacja: Poland  
+
+   Zanotuj:
+   - liczbę rekordów  
+
+---
+
+4. Analiza dla UWM w Olsztynie  
+
+   Spróbuj zawęzić wyniki do afiliacji związanych z Uniwersytetem Warmińsko-Mazurskim.
+
+   W tym celu przetestuj różne warianty zapytań (np. nazwa uczelni, miasto, skróty, różne wersje językowe).
+
+   Zanotuj:
+   - wszystkie użyte warianty zapytań  
+   - liczbę rekordów dla każdego wariantu  
+
+---
+
+5. Analiza krytyczna afiliacji  
+
+   Odpowiedz na pytania:
+
+   - Czy zapis afiliacji w bazie danych jest jednoznaczny?  
+   - Czy wszyscy naukowcy używają tej samej nazwy instytucji?  
+   - Jakie problemy pojawiają się przy wyszukiwaniu po afiliacji?  
+   - Jak wpływa to na wiarygodność wyników?  
+
+---
+
+6. Rozszerzenie zapytania  
+
+   Dodaj drugi termin biologiczny (tworząc bardziej szczegółowe zapytanie).
+
+   Powtórz analizę dla:
+   - świata  
+   - Polski  
+   - UWM  
+
+---
+
+7. Zestawienie danych  
+
+   Utwórz tabelę zawierającą:
+
+   - zapytanie  
+   - liczba publikacji (świat)  
+   - liczba publikacji (Polska)  
+   - liczba publikacji (UWM – różne warianty)  
+
+---
+
+8. Wizualizacja danych  
+
+   Wykonaj wykres przedstawiający:
+
+   - porównanie liczby publikacji: świat vs Polska vs UWM  
+
+   Wybierz odpowiednią formę (np. wykres słupkowy).
 
 ---
 
 ### Wyniki  
+
 - wszystkie użyte zapytania (kwerendy)  
-- liczba rekordów dla każdego wariantu  
-- tabela porównawcza wyników  
+- liczby rekordów  
+- tabela porównawcza  
+- wykres  
 
 ---
 
 ### Wnioski  
-- dlaczego liczba rekordów zmienia się po zastosowaniu filtrów?  
-- które filtry mają największy wpływ?  
-- czy liczba publikacji odzwierciedla popularność tematu badawczego?  
 
+- Jak wygląda udział Polski w globalnej produkcji naukowej w wybranej dziedzinie?  
+- Jak wygląda aktywność publikacyjna UWM na tle Polski?  
+- Czy można łatwo zidentyfikować badaczy z konkretnej uczelni?  
+- Jakie są ograniczenia wyszukiwania po afiliacji?  
+- Czy liczba publikacji odzwierciedla realną aktywność badawczą?  
+
+---
+
+### Zadanie dodatkowe – dynamika publikacji w czasie  
+
+Spróbuj przeanalizować, jak zmieniała się liczba publikacji w czasie.
+
+#### Wykonaj:
+
+1. Podziel zakres lat:
+   - od roku Twojego urodzenia do roku bieżącego  
+
+2. Zbierz dane:
+   - liczba publikacji dla wybranego tematu w kolejnych latach  
+   (możesz użyć filtrów dat lub zapytań z zakresem lat, np. 2010:2015)
+
+3. Utwórz tabelę:
+   - rok / zakres lat  
+   - liczba publikacji  
+
+4. Wykonaj wykres:
+   - liczba publikacji w funkcji czasu  
+
+---
+
+#### Wnioski:
+
+- Czy liczba publikacji rośnie, maleje czy jest stabilna?  
+- Czy można wskazać momenty gwałtownego wzrostu?  
+- Jak można interpretować te zmiany w kontekście rozwoju nauki?  
+
+---
+
+### Pytanie otwarte  
+
+Czy uważasz, że liczba publikacji jest dobrym wskaźnikiem rozwoju danej dziedziny? Uzasadnij swoją odpowiedź.
 ---
 
 ## Zadanie 1.2 – Analiza ilościowa sekwencji w bazie Nucleotide
