@@ -113,13 +113,13 @@ integracja wiedzy i samodzielne rozwiązywanie problemów
 
 ## Logika kursu
 
-1. Gdzie są dane? (Spotkanie 1)  
-2. Jak są zapisane? (Spotkanie 2)  
-3. Jak znaleźć podobne sekwencje? (Spotkanie 3)  
-4. Co oznacza podobieństwo? (Spotkanie 4)  
-5. Jakie regiony są ważne biologicznie? (Spotkanie 5)  
-6. Jak interpretować funkcję? (Spotkanie 6)  
-7. Czy potrafię przeprowadzić pełną analizę? (Spotkanie 7)
+1. Gdzie są dane? 
+2. Jak są zapisane? 
+3. Jak znaleźć podobne sekwencje?  
+4. Co oznacza podobieństwo? 
+5. Jakie regiony są ważne biologicznie?  
+6. Jak interpretować funkcję? 
+7. Czy potrafię przeprowadzić pełną analizę? 
 
 ## Online materials for the Introduction to Bioinformatics course
 
