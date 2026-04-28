@@ -47,7 +47,7 @@ Do tego celu wykorzystasz bazę PubMed.
 1. Wybór tematu  
 
    Wybierz samodzielnie temat badawczy (jedno słowo lub krótka fraza), który Cię interesuje.  
-   Unikaj korzystania z przykładów innych osób – wybierz coś, co rzeczywiście Cię ciekawi.
+   Najlepiej wybierz coś, co rzeczywiście Cię ciekawi, będzie to dla Ciebie ciekawe oraz łatwiejsze w doborze filtrów.
 
 ---
 
@@ -63,7 +63,7 @@ Do tego celu wykorzystasz bazę PubMed.
 3. Analiza dla Polski  
 
    Zmodyfikuj zapytanie, dodając filtr:
-   - afiliacja: Poland  
+   - afiliacja: Poland lub Polska (najlepiej użyj odpowiedniego operatora logicznego)
 
    Zanotuj:
    - liczbę rekordów  
@@ -72,7 +72,7 @@ Do tego celu wykorzystasz bazę PubMed.
 
 4. Analiza dla UWM w Olsztynie  
 
-   Spróbuj zawęzić wyniki do afiliacji związanych z Uniwersytetem Warmińsko-Mazurskim.
+   Spróbuj zawęzić wyniki do afiliacji związanych z Uniwersytetem Warmińsko-Mazurskim w Olsztynie.
 
    W tym celu przetestuj różne warianty zapytań (np. nazwa uczelni, miasto, skróty, różne wersje językowe).
 
@@ -86,10 +86,10 @@ Do tego celu wykorzystasz bazę PubMed.
 
    Odpowiedz na pytania:
 
-   - Czy zapis afiliacji w bazie danych jest jednoznaczny?  
-   - Czy wszyscy naukowcy używają tej samej nazwy instytucji?  
+   - Czy zapis afiliacji w bazie danych jest jednoznaczny i czy zapis „UWM in Olsztyn” jest wystarczający? 
+   - Czy wszyscy naukowcy/autorzy używają tej samej nazwy instytucji?  
    - Jakie problemy pojawiają się przy wyszukiwaniu po afiliacji?  
-   - Jak wpływa to na wiarygodność wyników?  
+   - Jak wpływa to na wiarygodność wyników i jak można to zoptymalizować?  
 
 ---
 
@@ -136,7 +136,7 @@ Do tego celu wykorzystasz bazę PubMed.
 
 ### Wnioski  
 
-- Jak wygląda udział Polski w globalnej produkcji naukowej w wybranej dziedzinie?  
+- Jak wygląda udział Polski w globalnej efektywności publikowania w wybranej dziedzinie?  
 - Jak wygląda aktywność publikacyjna UWM na tle Polski?  
 - Czy można łatwo zidentyfikować badaczy z konkretnej uczelni?  
 - Jakie są ograniczenia wyszukiwania po afiliacji?  
@@ -144,7 +144,7 @@ Do tego celu wykorzystasz bazę PubMed.
 
 ---
 
-### Zadanie dodatkowe – dynamika publikacji w czasie  
+### Zadanie dodatkowe 1 – dynamika publikacji w czasie  
 
 Spróbuj przeanalizować, jak zmieniała się liczba publikacji w czasie.
 
@@ -162,9 +162,7 @@ Spróbuj przeanalizować, jak zmieniała się liczba publikacji w czasie.
    - liczba publikacji  
 
 4. Wykonaj wykres:
-   - liczba publikacji w funkcji czasu  
-
----
+   - liczba publikacji w funkcji czasu
 
 #### Wnioski:
 
@@ -172,11 +170,20 @@ Spróbuj przeanalizować, jak zmieniała się liczba publikacji w czasie.
 - Czy można wskazać momenty gwałtownego wzrostu?  
 - Jak można interpretować te zmiany w kontekście rozwoju nauki?  
 
----
+### Zadanie dodatkowe 2 – znajdż swojego promotora
 
-### Pytanie otwarte  
+Spróbuj znaleźć konkretnego naukowca z UWM pracującego w wybranej dziedzinie.  
+
+- Jakie ma publikacje?  
+- Czy jego afiliacja jest zapisana/zapisywana spójnie?
+
+
+
+### Pytanie otwarte do dyskusji ( dodatkowe 3 ) 
 
 Czy uważasz, że liczba publikacji jest dobrym wskaźnikiem rozwoju danej dziedziny? Uzasadnij swoją odpowiedź.
+
+
 ---
 
 ## Zadanie 1.2 – Analiza ilościowa sekwencji w bazie Nucleotide
