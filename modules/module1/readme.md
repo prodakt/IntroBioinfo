@@ -6,8 +6,8 @@ Współczesna bioinformatyka opiera się na analizie ogromnych zbiorów danych b
 
 Jednym z najważniejszych systemów tego typu jest NCBI (National Center for Biotechnology Information), który udostępnia m.in.:
 
-- bazę publikacji naukowych (PubMed),
-- bazę sekwencji nukleotydowych (Nucleotide),
+- bazę publikacji naukowych (PubMed -> https://pubmed.ncbi.nlm.nih.gov/),
+- bazę sekwencji nukleotydowych (Nucleotide -> https://www.ncbi.nlm.nih.gov/nucleotide/),
 - bazę sekwencji białkowych (Protein).
 
 Celem ćwiczenia jest:
@@ -16,13 +16,21 @@ Celem ćwiczenia jest:
 - zrozumienie, jak filtrowanie wpływa na wyniki wyszukiwania,
 - interpretacja liczby rekordów w kontekście biologicznym.
 
-General introduction:
+Wybrane tutoriale:
+
+[Entrez Sequences Quick Start (NCBI Nucleotide & Protein)](https://www.ncbi.nlm.nih.gov/books/NBK44863/)
+
+[PubMed help](https://pubmed.ncbi.nlm.nih.gov/help/)
 
 [![Watch the video](https://img.youtube.com/vi/QIZ8QH6JcC8/0.jpg)](https://youtu.be/QIZ8QH6JcC8?v=QIZ8QH6JcC8)
 
-PubMed Tutorials:
+
 
 [![PubMed tutorials](https://img.youtube.com/vi/xPy4tCr4j8Q/0.jpg)](https://www.youtube.com/watch?v=xPy4tCr4j8Q&list=PL7dF9e2qSW0YkmxDTsUG6p4hJjYOPT0Uj)
+
+
+
+
 
 ---
 
