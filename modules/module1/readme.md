@@ -16,11 +16,13 @@ Celem ćwiczenia jest:
 - zrozumienie, jak filtrowanie wpływa na wyniki wyszukiwania,
 - interpretacja liczby rekordów w kontekście biologicznym.
 
+General introduction:
+
 [![Watch the video](https://img.youtube.com/vi/QIZ8QH6JcC8/0.jpg)](https://youtu.be/QIZ8QH6JcC8?v=QIZ8QH6JcC8)
 
 PubMed Tutorials:
-https://youtube.com/playlist?list=PL7dF9e2qSW0YkmxDTsUG6p4hJjYOPT0Uj&si=qqdAUe99I0ey068H
 
+[![PubMed tutorials](https://img.youtube.com/vi/xPy4tCr4j8Q/0.jpg)](https://www.youtube.com/watch?v=xPy4tCr4j8Q&list=PL7dF9e2qSW0YkmxDTsUG6p4hJjYOPT0Uj)
 
 ---
 
