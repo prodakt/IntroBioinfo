@@ -18,6 +18,10 @@ Celem ćwiczenia jest:
 
 [![Watch the video](https://img.youtube.com/vi/QIZ8QH6JcC8/0.jpg)](https://youtu.be/QIZ8QH6JcC8?v=QIZ8QH6JcC8)
 
+PubMed Tutorials:
+https://youtube.com/playlist?list=PL7dF9e2qSW0YkmxDTsUG6p4hJjYOPT0Uj&si=qqdAUe99I0ey068H
+
+
 ---
 
 ## Zadanie 1.1 – Analiza publikacji naukowych: świat, Polska i UWM w Olsztynie
