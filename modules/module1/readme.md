@@ -8,7 +8,7 @@ Jednym z najważniejszych systemów tego typu jest NCBI (National Center for Bio
 
 - bazę publikacji naukowych (PubMed -> https://pubmed.ncbi.nlm.nih.gov/),
 - bazę sekwencji nukleotydowych (Nucleotide -> https://www.ncbi.nlm.nih.gov/nucleotide/),
-- bazę sekwencji białkowych (Protein).
+- bazę sekwencji białkowych (Protein -> https://www.ncbi.nlm.nih.gov/protein/).
 
 Celem ćwiczenia jest:
 - zapoznanie się z interfejsem i możliwościami baz danych NCBI,
