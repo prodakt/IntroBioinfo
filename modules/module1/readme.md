@@ -185,6 +185,7 @@ Czy uważasz, że liczba publikacji jest dobrym wskaźnikiem rozwoju danej dzied
 
 
 ================================================================================
+
 ## Zadanie 1.2 – Analiza sekwencji nukleotydowych: struktura danych i ograniczenia wyszukiwania
 
 ### Cel  
@@ -313,12 +314,13 @@ Sprawdż:
 - liczby rekordów  
 - tabela porównawcza  
 - wykres  
-
+- wskaż elementy strukturalne baz danych: raport, rekord, pole rekordu, kwerendę, elementy formularza
+  
 ---
 
 ### Wnioski  
 
-- Co oznacza „rekord” w bazie nukleotydowej?  
+- Co oznacza „rekord” w bazie nukleotydowej i jaka jest różnica między dekordem bazy danych a sekwencją?  
 - Dlaczego liczba rekordów zmienia się tak znacząco po zastosowaniu filtrów?  
 - Czy krótkie sekwencje dominują w bazie? Dlaczego?  
 - Jakie są różnice między sekwencjami kodującymi i niekodującymi?  
@@ -358,7 +360,8 @@ Spróbuj przeanalizować, jak zmieniała się liczba rekordów w czasie.
 
 ### Pytanie otwarte (do dyskusji)
 
-- Czy liczba rekordów w bazie nukleotydowej jest dobrą miarą naszej wiedzy o genomach organizmów? Uzasadnij odpowiedź. 
+- Czy liczba rekordów w bazie nukleotydowej jest dobrą miarą naszej wiedzy o genomach organizmów? Uzasadnij odpowiedź.
+- Czy potrafisz wyjaśnić jak wygląda schemat połączenia komputera, na którym pracujesz z rekordami w bazie danych? Czy potrafisz wskazać elementy DBMS?
 
 ============================================================================
 
