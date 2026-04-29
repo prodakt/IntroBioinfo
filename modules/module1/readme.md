@@ -479,17 +479,21 @@ Nauczenie świadomego formułowania zapytań w bazach danych.
 
 ### Wykonaj  
 
-1. W bazie NCBI Protein wyszukaj rekordy zawierające:
+1. W bazie NCBI Protein wyszukaj rekordy zawierające pojedyncze słowa kluczowe, na przykład:
    - `cytochrome`
+   - `hemoglobin`
+   - `kinase`
+   - `human`
+   - lub inne dowolne
 
-2. Wykonaj wyszukiwania z użyciem operatorów:
-   - `cytochrome AND human`  
-   - `cytochrome OR hemoglobin`  
+2. Wykonaj wyszukiwania z użyciem operatorów w różnych kombinacjach, na przykład:
+   - `cytochrome AND human`, `cytochrome NOT human`, `cytochrome OR human` 
+   - `cytochrome OR hemoglobin AND human`, `(cytochrome OR hemoglobin) AND human`, `(cytochrome OR hemoglobin) NOT human`
    - `cytochrome NOT bacteria`
 
 3. Porównaj:
    - liczbę rekordów  
-   - charakter wyników  
+   - charakter wyników
 
 4. Stwórz własne zapytanie:
    - zawierające minimum 3 warunki  
@@ -504,6 +508,7 @@ Nauczenie świadomego formułowania zapytań w bazach danych.
 ---
 
 ### Wnioski  
+- wyjasnij jak działają połączenia słów kluczowych poszczególnymi operaorami oraz jakie znaczenie w budowaniu kwerendy mają takie znaki jak "", () itp. ?
 - który operator najbardziej zawęża wyniki?  
 - dlaczego konstrukcja zapytania ma znaczenie?  
 - jakie błędy można popełnić przy wyszukiwaniu danych biologicznych?  
