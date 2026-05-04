@@ -149,7 +149,7 @@ Zrozumienie, od czego zależy rozmiar pliku.
 
 ### Wykonaj  
 
-1. Utwórz pliki zawierające:
+1. Utwórz pliki zawierające (najlepiej jeżeli to będzie plik zawierający dane biologiczne - np. FASTA):
    - 0 znaków  
    - 10 znaków  
    - 100 znaków  
@@ -158,8 +158,8 @@ Zrozumienie, od czego zależy rozmiar pliku.
 
 2. Zapisz je w różnych formatach:
    - .txt  
-   - .doc/.docx  
-   - (opcjonalnie) .rtf  
+   - .doc/.docx + .rtf 
+   - .png + .bmp
 
 3. Sprawdź ich rozmiar (w bajtach).
 
@@ -196,10 +196,10 @@ Zrozumienie, jak dane biologiczne mogą być reprezentowane w formie tabelaryczn
    - sekwencję  
 
 3. Zapisz tabelę:
-   - w formacie .doc/.docx  
+   - w formacie .doc/.docx  + .xls/.xlsx
    - w formacie .csv lub .tsv  
 
-4. Otwórz pliki w różnych programach.
+4. Otwórz pliki w różnych programach (najlepiej edytorach tesktu jak notatnik, notepad++, metapad, Visual Studio Code).
 
 ---
 
