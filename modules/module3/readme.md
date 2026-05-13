@@ -27,7 +27,9 @@ W trakcie ćwiczenia nauczysz się:
 - rozumieć znaczenie parametrów wyszukiwania.
 
 ## Wybrane tutoriale
-Quick start : https://blast.ncbi.nlm.nih.gov/doc/blast-quick-start-guide/
+- Quick start : https://blast.ncbi.nlm.nih.gov/doc/blast-quick-start-guide/
+- BLAST handbook: https://www.ncbi.nlm.nih.gov/books/NBK153387/
+
 
 [![Playlista BLAST tutorials](https://img.youtube.com/vi/topBozEJGIk/0.jpg)](https://www.youtube.com/watch?v=topBozEJGIk&list=PL7dF9e2qSW0azL2xOKAtxDW7QI8UU4XZ6&index=2)
 
