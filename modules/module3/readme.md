@@ -29,7 +29,7 @@ W trakcie ćwiczenia nauczysz się:
 ## Wybrane tutoriale
 - Quick start : https://blast.ncbi.nlm.nih.gov/doc/blast-quick-start-guide/
 - BLAST handbook: https://www.ncbi.nlm.nih.gov/books/NBK153387/
-
+- [Instrukcja do BLAST po polsku (pdf)](https://github.com/prodakt/IntroBioinfo/blob/main/modules/files/BLAST_handbook_PL.pdf)
 
 [![Playlista BLAST tutorials](https://img.youtube.com/vi/topBozEJGIk/0.jpg)](https://www.youtube.com/watch?v=topBozEJGIk&list=PL7dF9e2qSW0azL2xOKAtxDW7QI8UU4XZ6&index=2)
 
