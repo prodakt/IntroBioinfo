@@ -18,9 +18,10 @@ Celem ćwiczenia jest:
 
 Wybrane tutoriale:
 
-[Entrez Sequences Quick Start (NCBI Nucleotide & Protein)](https://www.ncbi.nlm.nih.gov/books/NBK44863/)
-
-[PubMed help](https://pubmed.ncbi.nlm.nih.gov/help/)
+- [Entrez Sequences Quick Start (NCBI Nucleotide & Protein)](https://www.ncbi.nlm.nih.gov/books/NBK44863/)
+- [Instrukcja do ENTREZ po polsku (pdf)](https://github.com/prodakt/IntroBioinfo/blob/main/modules/files/Entrez_handbook_PL.pdf)
+- [Oficjalny PubMed help (online)](https://pubmed.ncbi.nlm.nih.gov/help/)
+- [Instrukcja do PubMed Central po polsku (pdf)](https://github.com/prodakt/IntroBioinfo/blob/main/modules/files/PubMedCentral_help_PL.pdf)
 
 [![Watch the video](https://img.youtube.com/vi/QIZ8QH6JcC8/0.jpg)](https://youtu.be/QIZ8QH6JcC8?v=QIZ8QH6JcC8)
 
