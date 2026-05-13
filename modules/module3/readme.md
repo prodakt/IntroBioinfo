@@ -26,6 +26,11 @@ W trakcie ćwiczenia nauczysz się:
 - analizować alignmenty,
 - rozumieć znaczenie parametrów wyszukiwania.
 
+## Wybrane tutoriale
+Quick start : https://blast.ncbi.nlm.nih.gov/doc/blast-quick-start-guide/
+
+[![Playlista BLAST tutorials](https://img.youtube.com/vi/topBozEJGIk/0.jpg)](https://www.youtube.com/watch?v=topBozEJGIk&list=PL7dF9e2qSW0azL2xOKAtxDW7QI8UU4XZ6&index=2)
+
 ---
 
 ## Zadanie 3.1 – Identyfikacja homologicznych sekwencji białkowych (BLASTp)
