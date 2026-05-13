@@ -33,6 +33,15 @@ W trakcie ćwiczenia nauczysz się:
 
 [![Playlista BLAST tutorials](https://img.youtube.com/vi/topBozEJGIk/0.jpg)](https://www.youtube.com/watch?v=topBozEJGIk&list=PL7dF9e2qSW0azL2xOKAtxDW7QI8UU4XZ6&index=2)
 
+<!--
+[![Instrukcja interpretacji wyników BLAST](https://github.com/prodakt/IntroBioinfo/blob/main/modules/files/BLASTres.png)](https://ftp.ncbi.nlm.nih.gov/pub/factsheets/HowTo_BLAST_NewResultPage.pdf)
+-->
+
+<a href="https://ftp.ncbi.nlm.nih.gov/pub/factsheets/HowTo_BLAST_NewResultPage.pdf">
+  <img src="https://github.com/prodakt/IntroBioinfo/blob/main/modules/files/BLASTres.png" 
+     width="480" alt="Instrukcja interpretacji wyników BLAST">
+</a>
+
 ---
 
 ## Zadanie 3.1 – Identyfikacja homologicznych sekwencji białkowych (BLASTp)
