@@ -127,6 +127,8 @@ integracja wiedzy i samodzielne rozwiązywanie problemów
 Kursy EBI:
 Introductory bioinformatics (3h) - https://www.ebi.ac.uk/training/online/courses/introductory-bioinformatics-pathway/
 
+Ensembl - Browsing genomes (3h) - https://www.ebi.ac.uk/training/online/courses/ensembl-browsing-genomes/
+
 An introduction to EMBL-EBI resources 2025 (1h) - https://www.ebi.ac.uk/training/events/introduction-embl-ebi-resources-2025/
 
 An introduction to EMBL-EBI resources 2026 (1h) - https://www.ebi.ac.uk/training/events/introduction-embl-ebi-resources-2026/
