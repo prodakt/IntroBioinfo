@@ -26,8 +26,11 @@ W czasie ćwiczenia wykorzystasz narzędzia:
 
 ## Materiały i tutoriale
 
+### Narzędzia MSA w EMBL-EBI
+https://www.ebi.ac.uk/jdispatcher/msa
+
 ### Clustal Omega (EMBL-EBI)
-https://www.ebi.ac.uk/Tools/msa/clustalo/
+https://www.ebi.ac.uk/jdispatcher/msa/clustalo
 
 ### COBALT (NCBI)
 https://www.ncbi.nlm.nih.gov/tools/cobalt/
