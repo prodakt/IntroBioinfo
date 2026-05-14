@@ -37,10 +37,18 @@ W trakcie ćwiczenia nauczysz się:
 [![Instrukcja interpretacji wyników BLAST](https://github.com/prodakt/IntroBioinfo/blob/main/modules/files/BLASTres.png)](https://ftp.ncbi.nlm.nih.gov/pub/factsheets/HowTo_BLAST_NewResultPage.pdf)
 -->
 
+<a href="https://ftp.ncbi.nlm.nih.gov/pub/factsheets/HowTo_BLASTGuide.pdf">
+  <img src="https://github.com/prodakt/IntroBioinfo/blob/main/modules/files/BLASTintro.png" 
+     width="480" alt="Instrukcja jak używać BLAST">
+</a>
+
 <a href="https://ftp.ncbi.nlm.nih.gov/pub/factsheets/HowTo_BLAST_NewResultPage.pdf">
   <img src="https://github.com/prodakt/IntroBioinfo/blob/main/modules/files/BLASTres.png" 
      width="480" alt="Instrukcja interpretacji wyników BLAST">
 </a>
+
+
+
 
 ---
 
